@@ -1,0 +1,21 @@
+{
+  "name": "e96/campaign-commander-notification-messaging",
+  "description": "Campaign Commander Notication Messaging class",
+  "license": "BSD",
+  "authors": [
+    {
+      "name": "Tijs Verkoyen",
+      "email": "php-campaign-commander-member@verkoyen.eu"
+    },
+    {
+      "name": "Vasiliy Ostanin",
+      "email": "bazilio@e96.ru"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "e96\\campaigcommandernnotificationmessaging\\": ""
+    }
+  }
+}
